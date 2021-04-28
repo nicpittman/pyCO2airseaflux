@@ -161,5 +161,8 @@ def solubility_test():
 
 
 #s,t (c),u,pco2s,pco2a,dpco2
-print(carbon_flux(33,20,6,425,400))
-print(carbon_flux(35,10,10,475,400))
+#print(carbon_flux(33,20,6,425,400))
+#print(carbon_flux(35,10,10,475,400))
+
+if __name__ == "__main__": 
+    pass 
