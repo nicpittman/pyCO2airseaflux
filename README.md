@@ -1,5 +1,5 @@
 # pyCO2airseaflux
-Convert ocean physical observations into an airsea flux (Python version)
+Convert ocean observations into an air-sea flux because a Python version doesn't exist publicly.
 
 This small package allows the user to calculate air-sea CO2 flux from observations. The main function is `carbon_flux`. You should call it like `from carbon_math import carbon_flux` and then something like `#print(carbon_flux(35,10,10,475,400))`
 
