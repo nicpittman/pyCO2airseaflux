@@ -38,5 +38,7 @@ where:
         
 Sources:
 Sutton, A. J., Wanninkhof, R., Sabine, C. L., Feely, R. A., Cronin, M. F., & Weller, R. A. (2017). Variability and trends in surface seawater p CO 2 and CO 2 flux in the Pacific Ocean: Pacific Ocean CO 2 Flux Trends. Geophysical Research Letters, 44(11), 5627–5636. https://doi.org/10.1002/2017GL073814
+
 Wanninkhof, R. (2014). Relationship between wind speed and gas exchange over the ocean revisited. Limnology and Oceanography: Methods, 12(6), 351–362. https://doi.org/10.4319/lom.2014.12.351
+
 Weiss, R. F. (1974). Carbon dioxide in water and seawater: The solubility of a non-ideal gas. Marine Chemistry, 2(3), 203–215. https://doi.org/10.1016/0304-4203(74)90015-2
